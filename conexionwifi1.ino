@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 
-String ssid     = "ejcuthh";
-String password = "12345678";
+String ssid     = "";
+String password = "";
 
 byte cont = 0;
 byte max_intentos = 50;
